@@ -19,7 +19,7 @@ const ProfileScreen = () => {
         </View>
         <Image
           source={{
-            uri: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.png",
+            uri: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/pinterest/8.jpeg",
           }}
           style={styles.image}
         />
